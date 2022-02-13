@@ -37,7 +37,7 @@ function Footer() {
                                 <a href="https://www.instagram.com/?hl=fr">Insat Dms</a>
                             </li>
                             <li>
-                                <a href="https://mail.google.com/mail/u/0/#inbox">Email</a>
+                                <a href="https://mail.google.com/">Email</a>
                             </li>
                         </div>
                     </ul>
